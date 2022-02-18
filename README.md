@@ -1,2 +1,2 @@
 # BancoDeDados
-Atividades referentes à Banco de Dados MySQL
+Atividades referentes ao Banco de Dados MySQL
